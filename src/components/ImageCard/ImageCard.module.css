@@ -1,0 +1,13 @@
+.oneImg {
+    display: block;
+    object-fit:contain;
+    overflow: hidden;
+
+    width: 400px;
+    height: 400px;
+}
+
+
+img {
+    object-fit: contain;
+}
